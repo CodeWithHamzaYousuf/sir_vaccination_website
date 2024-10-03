@@ -1,0 +1,20 @@
+.details {
+  padding-top: 10px;
+  padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .panel-display {
+    width: 50%;
+    background-color: rgb(236, 218, 221);
+    margin-left: 25%;
+  }
+  
+  .thank-you {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10%;
+  }
